@@ -13,11 +13,22 @@ console.log(" je mange " + nourriture + " à chaque " + repas);
 const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
 
 // 1.
+/******************************************************
+Correcteur: Yannick GOUGUIA
+
+Revoir cet exercice, mauvaise reponse
+
+*****************************************************/
 const myWatchedSeriesLength = 3 ;
 
 
 //2.
+/******************************************************
+Correcteur: Yannick GOUGUIA
 
+Revoir cet exercice, mauvaise methodologie
+
+*****************************************************/
 let myWatchedSeriesSentence = myWatchedSeries[0] + " ," + myWatchedSeries[1] +" ,"+myWatchedSeries[2]
  
 //3.
