@@ -1,3 +1,14 @@
+/******************************************************
+Correcteur: Yannick GOUGUIA
+
+Muavais nom de fichier: s.js
+il faut penser a bien nommer vos fichier
+
+*****************************************************/
+
+
+
+
 // Exercice 1
             const fruits = ["Banana", "Apples", "Oranges", "Blueberries"];
 
